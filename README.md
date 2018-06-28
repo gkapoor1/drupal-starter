@@ -1,4 +1,4 @@
-# Drupal 8 Starter
+## Drupal 8 Starter
 Important features and functionality.
 
 1. Composer Based Drupal Installation and Updation.
